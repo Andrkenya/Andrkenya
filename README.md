@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Andrew Bukenya
-- 🌱 I'm a Software Developer
+- 👋 Hi, I’m Andrew Bukenya.
+- 🌱 I'm a Software Developer.
 - 👀 I have interest in Software Engineering, Systems Security and AI. 
-- 🌱 Currently I'm a Masters Scholar at Makerere University, Msc. Computer Science 
-- 💞️ I’m looking to collaborate in areas of software development, security, advanced technological research and applied Artificial Intelligence.
+- 🌱 Currently I'm a Masters Scholar at Makerere University, Msc.Computer Science. 
+- 💞️ I’m looking to collaborate in areas of software development, security, advanced technological research and 
+-    applied Artificial Intelligence.
 - 📫 Connect with me via email, bukenyaandrew7@gmail.com
 - 📫 Or call: +256705130050, +256789862169
 
