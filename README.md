@@ -1,5 +1,5 @@
 - I am Andrew Bukenya, a Software Engineer skilled in a variety of programming languages and frameworks .
-- My speciality and focus is Artificial Intelligence, Systems Security, Data Science and Cloud Technologies. Currently I'm a Masters Scholar at Makerere University. Hold a strong background in software development, Data Science and Artificial Intelligence.
+- My speciality is Artificial Intelligence, Data Science, Software Development and Cloud Technologies. Currently I'm a Masters Scholar at Makerere University. Hold a strong background and handson experience in Software Development, Data Science and Artificial Intelligence.
 - Get in touch via email, andrew.buk10@gmail.com
 
 <!---
