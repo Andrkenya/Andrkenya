@@ -7,7 +7,7 @@
 ## Software Development
 
 ### Front-End
-- I'm proficient in React, Next.js, Redux, Bootstrap, Material UI, TailwindCSS, etc. for Front-end development.
+- I'm proficient in React, Next.js, Redux, Bootstrap, Material UI, TailwindCSS, etc. for Front-end development. Learning Angular currently.
 
 ### Back-End
 - Flask, Adonis(Node.js) and Laravel for Back-end, and learning Django currently.
