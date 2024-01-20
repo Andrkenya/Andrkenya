@@ -24,7 +24,7 @@
 
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
-- Also, I hold Bachelor's Degree in Computer Science with high grades.
+- Also, I hold Bachelor's Degree in Computer Science with good grades.
 
 ## Contact Andrew
 - Let's get in touch via email andrew.buk10@gmail.com for open source collaboration, Knowledge share, career development, etc.
