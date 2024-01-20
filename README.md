@@ -16,9 +16,8 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [Confused about Data Science?](https://andrewnotes.hashnode.dev/confused-about-data-science)
-- [Smart Cloud Deployment](https://andrewnotes.hashnode.dev/smart-cloud-deployment)
-<!-- HASHNODE:END -->
+ - 💫 [Confused about Data Science?](https://andrewnotes.hashnode.dev/confused-about-data-science)
+ - 🌮 [Smart Cloud Deployment](https://andrewnotes.hashnode.dev/smart-cloud-deployment)<!-- HASHNODE:END -->
 
 
 <!---
