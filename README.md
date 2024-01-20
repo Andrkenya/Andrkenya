@@ -16,7 +16,7 @@
 - I've worked with PostGreSQL and MySQL Databases, and learning MongoDB.
 
 ### Mobile
-- Currently using React-Native for mobile developments, and learning Flutter.
+- Currently using React-Native for mobile development, and learning Flutter.
 
 ## Artificial Intelligence & Data Science
 -  I hold Handson experience in Python and Machine Learning utilizing Tensorflow, Keras, Numpy, Pandas, Scikit-learn.
