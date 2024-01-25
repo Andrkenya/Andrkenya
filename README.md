@@ -32,9 +32,10 @@
 
 ## :books: Hashnode Blog Post
 <!-- HASHNODE:START -->
- - 💫 [Can bugs be minimal in Production?](https://andrewnotes.hashnode.dev/can-bugs-be-minimal-in-production)
- - 🌮 [Confused about Data Science?](https://andrewnotes.hashnode.dev/confused-about-data-science)
- - 💫 [Smart Cloud Deployment](https://andrewnotes.hashnode.dev/smart-cloud-deployment)<!-- HASHNODE:END -->
+ - 💫 [Is Project Documentation Relevant?](https://andrewnotes.hashnode.dev/is-project-documentation-relevant)
+ - 🌮 [Can bugs be minimal in Production?](https://andrewnotes.hashnode.dev/can-bugs-be-minimal-in-production)
+ - 💫 [Confused about Data Science?](https://andrewnotes.hashnode.dev/confused-about-data-science)
+ - 🚀 [Smart Cloud Deployment](https://andrewnotes.hashnode.dev/smart-cloud-deployment)<!-- HASHNODE:END -->
 
 
 <!---
