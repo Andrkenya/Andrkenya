@@ -24,6 +24,7 @@
 
 ## Scraping Skills
 - I've used Beautiful Soup to scrap data from multiple sources for a language translation project.
+- Currently adopting Selenium in my workflows.
 
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
