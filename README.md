@@ -13,7 +13,7 @@
 - Flask, Adonis(Node.js) and Laravel for Back-end, and learning Django currently.
 
 ### Databases
-- I've worked with PostGreSQL and MySQL Databases, and learning MongoDB.
+- I've worked with PostGreSQL,  MySQL, and MongoDB.
 
 ### Mobile
 - Currently using React-Native for mobile development, and learning Flutter.
@@ -29,6 +29,8 @@
 ## Contact Andrew
 - Let's get in touch via email andrew.buk10@gmail.com for open source collaboration, Knowledge share, career development, etc.
 
+## Reading Stats
+<a href="https://app.daily.dev/andrewbuk"><img src="https://api.daily.dev/devcards/8d94f37f368d41dea68ddba7a00d7d5c.png?r=g0q" width="400" alt="Andrew B's Dev Card"/></a>
 
 ## :books: Hashnode Blog Post
 <!-- HASHNODE:START -->
