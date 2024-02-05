@@ -23,7 +23,7 @@
 - I've worked with SpaCy and NLTK for NLP projects.
 
 ## Scraping Skills
-- I've used Beautiful Soup to scrap data from multiple sites for a language translation project.
+- I've used Beautiful Soup to scrap data from multiple sources for a language translation project.
 
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
