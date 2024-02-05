@@ -26,6 +26,9 @@
 - I've used Beautiful Soup to scrap data from multiple sources for a language translation project.
 - Currently adopting Selenium in my workflows.
 
+## Server Administration
+I've administered linux servers, deployed services to linux back-end, configured security through reverse proxy, implemented migrations from cloud test to production environment.  Built, deployed, and managed containers on Docker.
+
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
 - Also, I hold Bachelor's Degree in Computer Science with good grades.
