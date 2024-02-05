@@ -22,6 +22,9 @@
 -  I hold Handson experience in Python and Machine Learning utilizing Tensorflow, Keras, Numpy, Pandas, Scikit-learn.
 - I've worked with SpaCy and NLTK for NLP projects.
 
+## Scraping Skills
+- I've used Beautiful Soup to scrap data from multiple sites for a language translation project.
+
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
 - Also, I hold Bachelor's Degree in Computer Science with good grades.
