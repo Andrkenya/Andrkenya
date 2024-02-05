@@ -10,7 +10,7 @@
 - I'm proficient in React, Next.js, Redux, Bootstrap, Material UI, TailwindCSS, etc. for Front-end development. Learning Angular currently.
 
 ### Back-End
-- Flask, Adonis(Node.js) and Laravel for Back-end, and learning Django currently.
+- Flask, Adonis(Node.js),Laravel, Express(Node.js), and learning Django currently.
 
 ### Databases
 - I've worked with PostGreSQL,  MySQL, and MongoDB.
