@@ -24,7 +24,7 @@
 
 ## Scraping Skills
 - I've used Beautiful Soup to scrap data from multiple sources for a language translation project.
-- Currently adopting Selenium in my workflows.
+- Adopting Selenium in my new workflows.
 
 ## Server Administration
 I've administered Linux servers, deployed services to Linux back-end, configured security through reverse proxy, implemented migrations from cloud test to production environment.  Built, deployed, and managed containers on Docker.
