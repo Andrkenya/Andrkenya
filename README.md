@@ -27,7 +27,7 @@
 - Currently adopting Selenium in my workflows.
 
 ## Server Administration
-I've administered Linux servers, deployed services to Liinux back-end, configured security through reverse proxy, implemented migrations from cloud test to production environment.  Built, deployed, and managed containers on Docker.
+I've administered Linux servers, deployed services to Linux back-end, configured security through reverse proxy, implemented migrations from cloud test to production environment.  Built, deployed, and managed containers on Docker.
 
 ## Education Status 
 - I'm a Masters Finalist at Makerere University specializing in Artificial Intelligence and Data Science.
